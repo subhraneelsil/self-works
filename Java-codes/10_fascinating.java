@@ -17,7 +17,6 @@ public class fascinating {
         num2=2*num;
         num3=3*num;
         String s1=String.valueOf(num1)+String.valueOf(num2)+String.valueOf(num3);
-        System.out.println(s1);
         for(int i=0;i<s1.length();i++)
         {
             for(int j=0;j<i;j++)
