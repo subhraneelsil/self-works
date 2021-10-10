@@ -2,7 +2,7 @@
 Created by Subhraneel Sil
 On 10.10.2021
 ***Spy number is number whose sum of the digit and product of the digits are same***
-***132 is a spy number as 1+3+2=1*3*2***
+***132 is a spy number as (1+3+2=1*3*2)***
  */
 package com.company;
 import java.util.*;
