@@ -14,7 +14,7 @@ public class array5_highest {
         int ar[]=new int[5];
         int temp;
         for(int i=0;i<5;i++) {
-            ar[i] = sc.nextInt(i);
+            ar[i] = sc.nextInt();
         }
         int max = ar[0];
 
