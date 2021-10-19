@@ -14,7 +14,7 @@ public class array4_lowest {
         int ar[]=new int[5];
         int temp;
         for(int i=0;i<5;i++) {
-            ar[i] = sc.nextInt(i);
+            ar[i] = sc.nextInt();
         }
         int min = ar[0];
 
